@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arista Narendra
 - 👀 I’m interested in Cyber Security, but I'm just started studying. I also interested in Graphic Design and Photo Editing
-- 🌱 I’m currently learning Python, Adobe Photoshop, Adobe Illustrator
+- 🌱 I’m currently learning Python and Adobe Photoshop. Have a plan to learn Adobe Illustrator soon
 - 📫 How to reach me: https://instagram.com/aristanarendraa
 
 <!---
